@@ -1,0 +1,54 @@
+:START_ID,:END_ID,type:TYPE,context
+microgravity,bone-loss,CAUSES,"Microgravity and unloading are known to cause osteoclast-mediated bone resorption; however, we hypothesize that osteocytic osteolysis, and cell cycle arrest during osteogenesis may also contribute to bone loss in space."
+microgravity,osteoclastic-activity,INCREASES,"TRAP-positive osteoclast-covered trabecular bone surfaces also increased in microgravity by 170% (p = 0.004), indicating osteoclastic bone degeneration."
+microgravity,osteocytic-osteolysis,CAUSES,"High-resolution X-ray nanoCT studies revealed signs of lacunar osteolysis, including increases in cross-sectional area (+17%, p = 0.022), perimeter (+14%, p = 0.008), and canalicular diameter (+6%, p = 0.037)."
+microgravity,matrix-metalloproteinases-mmp,INCREASES,"Expression of matrix metalloproteinases (MMP) 1, 3, and 10 in bone, as measured by RT-qPCR, was also up-regulated in microgravity (+12.94, +2.98 and +16.85 fold respectively, p<0.01)"
+mmp10,osteocytic-osteolysis,ASSOCIATED_WITH,"MMP10 localized to osteocytes, and consistent with induction of osteocytic osteolysis."
+microgravity,cdkn1a-p21,INCREASES,expression of CDKN1a/p21 in bone increased 3.31 fold (p<0.01)
+cdkn1a-p21,osteoblastic-cell-cycle-inhibition,CAUSES,CDKN1a/p21... inhibiting the cell cycle during tissue regeneration
+microgravity,trp53-p53,DECREASES,Trp53 was down-regulated by -1.54 fold
+c57bl6j-mice,pelvic-bone,PART_OF,"Analysis of the pelvis by µCT shows decreases in bone volume fraction (BV/TV) of 6.29%, and bone thickness of 11.91%."
+uct-micro-computed-tomography,pelvic-bone,USED_FOR,"Analysis of the pelvis by µCT shows decreases in bone volume fraction (BV/TV) of 6.29%, and bone thickness of 11.91%."
+microgravity,bone-volume-fraction-bv-tv,DECREASES,decreases in bone volume fraction (BV/TV) of 6.29%
+microgravity,bone-thickness,DECREASES,decreases in bone thickness of 11.91%
+nanoc-t-high-resolution-x-ray-nanoc-t,osteocytic-osteolysis,USED_FOR,High-resolution X-ray nanoCT studies revealed signs of lacunar osteolysis
+microgravity,osteoblastic-cell-cycle-inhibition,CAUSES,"new evidence for microgravity-induced osteocytic osteolysis, and CDKN1a/p21-mediated osteogenic cell cycle arrest."
+cdkn1a-p21,bone-loss,CONTRIBUTES_TO,CDKN1a/p21-mediated osteogenic cell cycle arrest... contribute to bone loss
+microgravity,biological-systems,INFLUENCES,"Microgravity... profoundly influences biological systems, including human cells."
+microgravity,immune-system,IMPAIRS,Microgravity significantly impacts the immune system by disrupting key mechanisms
+immune-system,human-health,IMPAIRS,disrupting key mechanisms... leading to increased susceptibility to infections.
+microgravity,t-cell-activation,DISRUPTS_PROCESS_OF,"disrupting key mechanisms, such as T cell activation"
+microgravity,macrophage-differentiation,DISRUPTS_PROCESS_OF,disrupting key mechanisms... macrophage differentiation
+microgravity,cancer-stem-cells,PROMOTES,it promotes the formation of spheroids in cancer stem cells
+microgravity,thyroid-cancer-cells,PROMOTES,it promotes the formation of spheroids in ... thyroid cancer cells
+microgravity,tissue-regeneration,ENHANCES,microgravity enhances tissue regeneration by modulating critical pathways
+microgravity,hippo-pathway,MODULATES,"modulating critical pathways, including Hippo"
+microgravity,pi3k-akt-pathway,MODULATES,modulating critical pathways... and PI3K-Akt
+hippo-pathway,stem-cell-differentiation,IMPROVES,"Hippo and PI3K-Akt, thereby improving stem cell differentiation"
+pi3k-akt-pathway,stem-cell-differentiation,IMPROVES,"PI3K-Akt, thereby improving stem cell differentiation"
+stem-cell-differentiation,hematopoietic-lineages,PRODUCES,improving stem cell differentiation into hematopoietic and cardiomyocyte lineages
+stem-cell-differentiation,cardiomyocytes,PRODUCES,improving stem cell differentiation into ... cardiomyocyte lineages
+microgravity,cardiomyocytes,ENHANCES,"microgravity exhibit enhanced mitochondrial biogenesis, improved calcium handling, and advanced structural maturation"
+microgravity,polystyrene-microspheres,UTILIZES,microgravity conditions combined with microspheres
+microgravity,collagen-microspheres,UTILIZES,microgravity conditions combined with microspheres
+microgravity,stemness,PRESERVES,preservation of stemness in human adipose-derived stem cells (hASCs) by using microgravity conditions
+polystyrene-microspheres,ssea-3-positive-hascs,INCREASES_PROPORTION_OF,polystyrene... microspheres increased the proportions of SSEA-3(+) hASCs
+collagen-microspheres,ssea-3-positive-hascs,INCREASES_PROPORTION_OF,collagen microspheres increased the proportions of SSEA-3(+) hASCs
+ssea-3-positive-hascs,oct4,EXPRESSES_HIGHER_LEVELS_OF,"These cultured hASCs expressed higher levels of pluripotent markers (OCT4, SOX2, NANOG, MYC, and KLF)"
+ssea-3-positive-hascs,sox2,EXPRESSES_HIGHER_LEVELS_OF,"These cultured hASCs expressed higher levels of pluripotent markers (OCT4, SOX2, NANOG, MYC, and KLF)"
+ssea-3-positive-hascs,nanog,EXPRESSES_HIGHER_LEVELS_OF,"These cultured hASCs expressed higher levels of pluripotent markers (OCT4, SOX2, NANOG, MYC, and KLF)"
+ssea-3-positive-hascs,myc,EXPRESSES_HIGHER_LEVELS_OF,"These cultured hASCs expressed higher levels of pluripotent markers (OCT4, SOX2, NANOG, MYC, and KLF)"
+ssea-3-positive-hascs,klf4,EXPRESSES_HIGHER_LEVELS_OF,"These cultured hASCs expressed higher levels of pluripotent markers (OCT4, SOX2, NANOG, MYC, and KLF)"
+ssea-3-positive-hascs,cell-proliferation,IMPROVES_ABILITY_FOR,"had improved abilities for proliferation, colony formation, network formation, and multiple-mesenchymal differentiation."
+ssea-3-positive-hascs,colony-formation,IMPROVES_ABILITY_FOR,"had improved abilities for proliferation, colony formation, network formation, and multiple-mesenchymal differentiation."
+ssea-3-positive-hascs,network-formation,IMPROVES_ABILITY_FOR,"had improved abilities for proliferation, colony formation, network formation, and multiple-mesenchymal differentiation."
+microgravity,regenerative-therapies,ENHANCES,We believe that this novel culturing method may further enhance regenerative therapies using hASCs.
+polystyrene-microspheres,colony-formation,INCREASES,We found a significantly higher number of colonies in the polystyrene microsphere group
+collagen-microspheres,colony-formation,INCREASES,We found a significantly higher number of colonies in the... collagen microsphere group
+polystyrene-microspheres,network-formation,IMPROVES,"hASCs cultured with polystyrene... microspheres formed complex, capillary-like networks more quickly and intricately"
+collagen-microspheres,network-formation,IMPROVES,"hASCs cultured with ... collagen microspheres formed complex, capillary-like networks more quickly and intricately"
+microgravity,oct4,INCREASES_EXPRESSION_OF,hASCs harvested from microgravity-microsphere cultures had higher expression levels of the pluripotent markers OCT4
+microgravity,sox2,INCREASES_EXPRESSION_OF,hASCs harvested from microgravity-microsphere cultures had higher expression levels of the pluripotent markers... SOX2
+microgravity,stem-cell-differentiation,ENHANCES,"Microgravity enhances tissue regeneration by modulating critical pathways... thereby improving stem cell differentiation into hematopoietic and cardiomyocyte lineages. Here, we report the preservation of stemness in human adipose-derived stem cells (hASCs) by using microgravity conditions combined with microspheres."
+regenerative-therapies,tissue-regeneration,USES,Microgravity enhances tissue regeneration... These findings underscore the dual implications of microgravity for space medicine and terrestrial health. They highlight its potential to drive advances in regenerative therapies. We believe that this novel culturing method may further enhance regenerative therapies using hASCs.
+10_1371_journal_pone_0061372,unified_scientific_review,PUBLISHED_IN,N/A

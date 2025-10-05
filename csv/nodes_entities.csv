@@ -1,0 +1,44 @@
+entityId:ID,name,label:LABEL
+microgravity,Microgravity,Condition
+bone-loss,Bone Loss,Biological Process
+osteoclastic-activity,Osteoclastic Activity,Biological Process
+osteocytic-osteolysis,Osteocytic Osteolysis,Biological Process
+osteoblastic-cell-cycle-inhibition,Osteoblastic Cell Cycle Inhibition,Biological Process
+cdkn1a-p21,CDKN1a/p21,Gene/Protein
+pelvic-bone,Pelvic Bone,Anatomical Structure
+c57bl6j-mice,C57BL/6J Mice,Organism
+matrix-metalloproteinases-mmp,Matrix Metalloproteinases (MMPs),Protein Family
+mmp10,MMP10,Protein
+trp53-p53,Trp53 (p53),Gene/Protein
+bone-volume-fraction-bv-tv,Bone Volume Fraction (BV/TV),Measurement
+bone-thickness,Bone Thickness,Measurement
+uct-micro-computed-tomography,µCT (Micro-Computed Tomography),Method
+nanoc-t-high-resolution-x-ray-nanoc-t,High-resolution X-ray nanoCT,Method
+biological-systems,Biological Systems,Biological System
+immune-system,Immune System,Biological System
+t-cell-activation,T Cell Activation,Biological Process
+macrophage-differentiation,Macrophage Differentiation,Biological Process
+cancer,Cancer,Disease
+cancer-stem-cells,Cancer Stem Cells,Biological Entity
+thyroid-cancer-cells,Thyroid Cancer Cells,Biological Entity
+tissue-regeneration,Tissue Regeneration,Biological Process
+hippo-pathway,Hippo Pathway,Biological Pathway
+pi3k-akt-pathway,PI3K-Akt Pathway,Biological Pathway
+stem-cell-differentiation,Stem Cell Differentiation,Biological Process
+hematopoietic-lineages,Hematopoietic Lineages,Biological Entity
+cardiomyocytes,Cardiomyocytes,Biological Entity
+human-health,Human Health,Health Outcome
+human-adipose-derived-stem-cells,human adipose-derived stem cells,Cell Type
+polystyrene-microspheres,polystyrene microspheres,Material
+collagen-microspheres,collagen microspheres,Material
+ssea-3-positive-hascs,SSEA-3 positive hASCs,Cell Subpopulation
+stemness,stemness,Biological Process
+cell-proliferation,cell proliferation,Biological Process
+oct4,OCT4,Pluripotent Marker
+sox2,SOX2,Pluripotent Marker
+nanog,NANOG,Pluripotent Marker
+myc,MYC,Pluripotent Marker
+klf4,KLF4,Pluripotent Marker
+colony-formation,colony formation,Biological Process
+network-formation,network formation,Biological Process
+regenerative-therapies,regenerative therapies,Application
